@@ -1,7 +1,7 @@
 {
     "timeBasedSongs": [
         {
-            "id": "new-leaf",
+            "id": "new-leaf-clear",
             "name": "Animal Crossing: New Leaf",
             "description": "Nintendo 3DS",
             "icon": "Music",
@@ -13,28 +13,28 @@
                     "hour": 0,
                     "title": "12 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/12%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
                     "id": "nl-01",
                     "hour": 1,
                     "title": "1 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/1%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
                     "id": "nl-02",
                     "hour": 2,
                     "title": "2 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/2%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
                     "id": "nl-03",
                     "hour": 3,
                     "title": "3 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/3%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
                     "id": "nl-04",
