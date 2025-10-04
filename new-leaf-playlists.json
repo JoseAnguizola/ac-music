@@ -31,42 +31,42 @@
                 {
                     "id": "nl-00",
                     "hour": 0,
-                    "title": "New Leaf Live",
+                    "title": "12 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/12%20A.M.mp3"
                 },
                 {
                     "id": "nl-01",
                     "hour": 1,
-                    "title": "New Leaf Live",
+                    "title": "1 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/1%20A.M.mp3"
                 },
                 {
                     "id": "nl-02",
                     "hour": 2,
-                    "title": "New Leaf Live",
+                    "title": "2 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/2%20A.M.mp3"
                 },
                 {
                     "id": "nl-03",
                     "hour": 3,
-                    "title": "New Leaf Live",
+                    "title": "3 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/3%20A.M.mp3"
                 },
                 {
                     "id": "nl-04",
                     "hour": 4,
-                    "title": "New Leaf Live",
+                    "title": "4 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/4%20A.M.mp3"
                 },
                 {
                     "id": "nl-05",
                     "hour": 5,
-                    "title": "New Leaf Live",
+                    "title": "5 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/5%20A.M.mp3"
                 }
