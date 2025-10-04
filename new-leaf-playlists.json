@@ -10,12 +10,12 @@
             "songs": [
                 {
                     "title": "Able Sisters (Mabel & Sable)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Able%20Sisters%20(Mabel%20and%20Sable).mp3",
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/libraries/shops/Able%20Sisters%20(Mabel%20and%20Sable).mp3",
                     "subtitle": "Animal Crossing: New Leaf"
                 },
                 {
                     "title": "Re-Tail",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Re-Tail.mp3",
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/libraries/shops/Re-Tail.mp3",
                     "subtitle": "Animal Crossing: New Leaf"
                 }
             ]
@@ -33,42 +33,42 @@
                     "hour": 0,
                     "title": "12 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/12%20A.M.mp3"
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/12%20A.M.mp3"
                 },
                 {
                     "id": "nl-01",
                     "hour": 1,
                     "title": "1 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/1%20A.M.mp3"
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/1%20A.M.mp3"
                 },
                 {
                     "id": "nl-02",
                     "hour": 2,
                     "title": "2 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/2%20A.M.mp3"
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/2%20A.M.mp3"
                 },
                 {
                     "id": "nl-03",
                     "hour": 3,
                     "title": "3 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/3%20A.M.mp3"
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/3%20A.M.mp3"
                 },
                 {
                     "id": "nl-04",
                     "hour": 4,
                     "title": "4 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/4%20A.M.mp3"
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/4%20A.M.mp3"
                 },
                 {
                     "id": "nl-05",
                     "hour": 5,
                     "title": "5 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/5%20A.M.mp3"
+                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/5%20A.M.mp3"
                 }
             ]
         }
