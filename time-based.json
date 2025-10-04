@@ -2,8 +2,8 @@
     "timeBasedSongs": [
         {
             "id": "new-leaf",
-            "name": "New Leaf",
-            "description": "New Leaf 24/7 Music",
+            "name": "Animal Crossing: New Leaf",
+            "description": "Nintendo 3DS",
             "icon": "Music",
             "iconBg": "#a8d5ba",
             "iconColor": "#2d5f3f",
@@ -111,7 +111,7 @@
                     "hour": 14,
                     "title": "2 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/12%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
                     "id": "nl-15",
@@ -180,8 +180,8 @@
         },
         {
             "id": "new-horizons",
-            "name": "New Horizons",
-            "description": "Chill New Horizons vibes",
+            "name": "Animal Crossing: New Horizons",
+            "description": "Nintendo Switch",
             "icon": "Cloud",
             "iconBg": "#9cb4d8",
             "iconColor": "#2c4a6b",
