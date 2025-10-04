@@ -171,6 +171,151 @@
             ]
         },
         {
+            "id": "new-leaf-miscellaneous",
+            "name": "Miscellaneous",
+            "description": "Unique tracks including the main theme, prologue music, Tortimer Island adventures, and various game events that add character to your New Leaf experience.",
+            "icon": "Star",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "songs": [
+                {
+                    "title": "Aww... (Axe Broke, etc.)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Aww...%20(Axe%20Broke,%20etc.).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Competition Award Ceremony",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Competition%20Award%20Ceremony.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Dedication Ceremony (Public Works Project Completion)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Dedication%20Ceremony%20(Public%20Works%20Project%20Completion).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Dr. Shrunk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Dr.%20Shrunk.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Loading the Game (Isabelle)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Loading%20the%20Game%20(Isabelle).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Main Theme",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Main%20Theme.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - After Choosing House Location",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20After%20Choosing%20House%20Location.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Go See Tom Nook",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Go%20See%20Tom%20Nook.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Train Arriving",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Train%20Arriving.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Welcome to Our Village!",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Welcome%20to%20Our%20Village!.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Where Do You Want Your House",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Where%20Do%20You%20Want%20Your%20House.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Racket",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Racket.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Resetti",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Resetti.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Award Ceremony",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Award%20Ceremony.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hammer Tour",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hammer%20Tour.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hammer Tour - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hammer%20Tour%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hide and Seek",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hide%20and%20Seek.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hide and Seek - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hide%20and%20Seek%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Lobby",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Lobby.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Lobby (Nighttime)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Lobby%20(Nighttime).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour (Nighttime)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20(Nighttime).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour (Nighttime) - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20(Nighttime)%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour Desk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20Desk.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "We'll Be Closing Shortly....",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/We%27ll%20Be%20Closing%20Shortly....mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Welcome to Our Village! (Not the Mayor)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Welcome%20to%20Our%20Village!%20(Not%20the%20Mayor).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                }
+            ]
+        },
+        {
             "id": "new-leaf-shops",
             "name": "Shop Themes",
             "description": "Cozy, nostalgic shop tunes from Animal Crossing: New Leaf—gentle jingles and friendly chimes that make your day feel like a stroll through T&T Emporium.",
@@ -351,151 +496,6 @@
                 {
                     "title": "Toy Day (Christmas, No SFX)",
                     "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Toy%20Day%20(Christmas,%20No%20SFX).mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                }
-            ]
-        },
-        {
-            "id": "new-leaf-special",
-            "name": "Special & Misc",
-            "description": "Unique tracks including the main theme, prologue music, Tortimer Island adventures, and various game events that add character to your New Leaf experience.",
-            "icon": "Star",
-            "iconBg": "#a8d5ba",
-            "iconColor": "#2d5f3f",
-            "songs": [
-                {
-                    "title": "Aww... (Axe Broke, etc.)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Aww...%20(Axe%20Broke,%20etc.).mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Competition Award Ceremony",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Competition%20Award%20Ceremony.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Dedication Ceremony (Public Works Project Completion)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Dedication%20Ceremony%20(Public%20Works%20Project%20Completion).mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Dr. Shrunk",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Dr.%20Shrunk.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Loading the Game (Isabelle)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Loading%20the%20Game%20(Isabelle).mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Main Theme",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Main%20Theme.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Prologue - After Choosing House Location",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20After%20Choosing%20House%20Location.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Prologue - Go See Tom Nook",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Go%20See%20Tom%20Nook.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Prologue - Train Arriving",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Train%20Arriving.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Prologue - Welcome to Our Village!",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Welcome%20to%20Our%20Village!.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Prologue - Where Do You Want Your House",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Where%20Do%20You%20Want%20Your%20House.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Racket",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Racket.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Resetti",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Resetti.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Award Ceremony",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Award%20Ceremony.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Hammer Tour",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hammer%20Tour.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Hammer Tour - Fast",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hammer%20Tour%20-%20Fast.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Hide and Seek",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hide%20and%20Seek.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Hide and Seek - Fast",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hide%20and%20Seek%20-%20Fast.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Lobby",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Lobby.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Lobby (Nighttime)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Lobby%20(Nighttime).mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Tour",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Tour - Fast",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20-%20Fast.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Tour (Nighttime)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20(Nighttime).mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Tour (Nighttime) - Fast",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20(Nighttime)%20-%20Fast.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Tortimer Island - Tour Desk",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20Desk.mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "We'll Be Closing Shortly....",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/We%27ll%20Be%20Closing%20Shortly....mp3",
-                    "subtitle": "Animal Crossing: New Leaf"
-                },
-                {
-                    "title": "Welcome to Our Village! (Not the Mayor)",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Welcome%20to%20Our%20Village!%20(Not%20the%20Mayor).mp3",
                     "subtitle": "Animal Crossing: New Leaf"
                 }
             ]
