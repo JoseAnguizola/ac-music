@@ -1,0 +1,408 @@
+{
+    "timeBasedSongs": [
+        {
+            "id": "new-leaf",
+            "name": "New Leaf",
+            "description": "New Leaf 24/7 Music",
+            "icon": "Music",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "songs": [
+                {
+                    "id": "nl-00",
+                    "hour": 0,
+                    "title": "New Leaf Live",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/12%20A.M.mp3",
+                    "composers": "",
+                    "time": "12 AM"
+                },
+                {
+                    "id": "nl-01",
+                    "hour": 1,
+                    "title": "New Leaf Live",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/1%20A.M.mp3",
+                    "composers": "",
+                    "time": "1 AM"
+                },
+                {
+                    "id": "nl-02",
+                    "hour": 2,
+                    "title": "New Leaf Live",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/2%20A.M.mp3",
+                    "composers": "",
+                    "time": "2 AM"
+                },
+                {
+                    "id": "nl-03",
+                    "hour": 3,
+                    "title": "New Leaf Live",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/3%20A.M.mp3",
+                    "composers": "",
+                    "time": "3 AM"
+                },
+                {
+                    "id": "nl-04",
+                    "hour": 4,
+                    "title": "New Leaf Live",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/4%20A.M.mp3",
+                    "composers": "",
+                    "time": "4 AM"
+                },
+                {
+                    "id": "nl-05",
+                    "hour": 5,
+                    "title": "New Leaf Live",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/5%20A.M.mp3",
+                    "composers": "",
+                    "time": "5 AM"
+                },
+                {
+                    "id": "nl-06",
+                    "hour": 6,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "6 AM"
+                },
+                {
+                    "id": "nl-07",
+                    "hour": 7,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "7 AM"
+                },
+                {
+                    "id": "nl-08",
+                    "hour": 8,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "8 AM"
+                },
+                {
+                    "id": "nl-09",
+                    "hour": 9,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "9 AM"
+                },
+                {
+                    "id": "nl-10",
+                    "hour": 10,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "10 AM"
+                },
+                {
+                    "id": "nl-11",
+                    "hour": 11,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "11 AM"
+                },
+                {
+                    "id": "nl-12",
+                    "hour": 12,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "12 PM"
+                },
+                {
+                    "id": "nl-13",
+                    "hour": 13,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "1 PM"
+                },
+                {
+                    "id": "nl-14",
+                    "hour": 14,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "2 PM"
+                },
+                {
+                    "id": "nl-15",
+                    "hour": 15,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "3 PM"
+                },
+                {
+                    "id": "nl-16",
+                    "hour": 16,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "4 PM"
+                },
+                {
+                    "id": "nl-17",
+                    "hour": 17,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "5 PM"
+                },
+                {
+                    "id": "nl-18",
+                    "hour": 18,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "6 PM"
+                },
+                {
+                    "id": "nl-19",
+                    "hour": 19,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "7 PM"
+                },
+                {
+                    "id": "nl-20",
+                    "hour": 20,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "8 PM"
+                },
+                {
+                    "id": "nl-21",
+                    "hour": 21,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "9 PM"
+                },
+                {
+                    "id": "nl-22",
+                    "hour": 22,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "10 PM"
+                },
+                {
+                    "id": "nl-23",
+                    "hour": 23,
+                    "title": "New Leaf Live",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "11 PM"
+                }
+            ]
+        },
+        {
+            "id": "new-horizons",
+            "name": "New Horizons",
+            "description": "Chill New Horizons vibes",
+            "icon": "Cloud",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "id": "rd-00",
+                    "hour": 0,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "12 AM"
+                },
+                {
+                    "id": "rd-01",
+                    "hour": 1,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "1 AM"
+                },
+                {
+                    "id": "rd-02",
+                    "hour": 2,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "2 AM"
+                },
+                {
+                    "id": "rd-03",
+                    "hour": 3,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "3 AM"
+                },
+                {
+                    "id": "rd-04",
+                    "hour": 4,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "4 AM"
+                },
+                {
+                    "id": "rd-05",
+                    "hour": 5,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "5 AM"
+                },
+                {
+                    "id": "rd-06",
+                    "hour": 6,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "6 AM"
+                },
+                {
+                    "id": "rd-07",
+                    "hour": 7,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "7 AM"
+                },
+                {
+                    "id": "rd-08",
+                    "hour": 8,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "8 AM"
+                },
+                {
+                    "id": "rd-09",
+                    "hour": 9,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "9 AM"
+                },
+                {
+                    "id": "rd-10",
+                    "hour": 10,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "10 AM"
+                },
+                {
+                    "id": "rd-11",
+                    "hour": 11,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "11 AM"
+                },
+                {
+                    "id": "rd-12",
+                    "hour": 12,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "12 PM"
+                },
+                {
+                    "id": "rd-13",
+                    "hour": 13,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "1 PM"
+                },
+                {
+                    "id": "rd-14",
+                    "hour": 14,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "2 PM"
+                },
+                {
+                    "id": "rd-15",
+                    "hour": 15,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "3 PM"
+                },
+                {
+                    "id": "rd-16",
+                    "hour": 16,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "4 PM"
+                },
+                {
+                    "id": "rd-17",
+                    "hour": 17,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "5 PM"
+                },
+                {
+                    "id": "rd-18",
+                    "hour": 18,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "6 PM"
+                },
+                {
+                    "id": "rd-19",
+                    "hour": 19,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "7 PM"
+                },
+                {
+                    "id": "rd-20",
+                    "hour": 20,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "8 PM"
+                },
+                {
+                    "id": "rd-21",
+                    "hour": 21,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "9 PM"
+                },
+                {
+                    "id": "rd-22",
+                    "hour": 22,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "10 PM"
+                },
+                {
+                    "id": "rd-23",
+                    "hour": 23,
+                    "title": "New Horizons Radio",
+                    "audioUrl": "",
+                    "composers": "",
+                    "time": "11 PM"
+                }
+            ]
+        }
+    ]
+}

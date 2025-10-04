@@ -1,0 +1,64 @@
+{
+    "games": [
+        {
+            "id": "new-leaf",
+            "name": "New Leaf",
+            "description": "Animal Crossing: New Leaf",
+            "icon": "Leaf",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "libraries": [
+                {
+                    "id": "new-leaf-shops",
+                    "name": "Shop Themes",
+                    "description": "Cozy, nostalgic shop tunes from Animal Crossing: New Leaf—gentle jingles and friendly chimes that make your day feel like a stroll through T&T Emporium.",
+                    "icon": "Store",
+                    "iconBg": "#f4d47c",
+                    "iconColor": "#8b6914",
+                    "songs": [
+                        {
+                            "title": "Able Sisters (Mabel & Sable)",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Able%20Sisters%20(Mabel%20and%20Sable).mp3",
+                            "composers": "Manaka Kataoka, Atsuko Asahi",
+                            "time": "Manaka Kataoka, Atsuko Asahi"
+                        },
+                        {
+                            "title": "Re-Tail",
+                            "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Re-Tail.mp3",
+                            "composers": "Kazumi Totaka, Manaka Kataoka, Atsuku Asahi",
+                            "time": "Kazumi Totaka, Manaka Kataoka, Atsuku Asahi"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "new-horizons",
+            "name": "New Horizons",
+            "description": "Animal Crossing: New Horizons",
+            "icon": "Palmtree",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "libraries": [
+                {
+                    "id": "new-horizons-shops",
+                    "name": "Shop Themes",
+                    "description": "Island shop vibes from New Horizons—tropical tunes and breezy melodies that make you feel at home on your island.",
+                    "icon": "Store",
+                    "iconBg": "#9cb4d8",
+                    "iconColor": "#2c4a6b",
+                    "songs": []
+                },
+                {
+                    "id": "new-horizons-ambient",
+                    "name": "Ambient Sounds",
+                    "description": "Peaceful ambient sounds from your island paradise.",
+                    "icon": "Waves",
+                    "iconBg": "#7ec8e3",
+                    "iconColor": "#1a5f7a",
+                    "songs": []
+                }
+            ]
+        }
+    ]
+}
