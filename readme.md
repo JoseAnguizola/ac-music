@@ -29,6 +29,7 @@ This repository may reference or include **game music tracks** to demonstrate th
 
 > [!IMPORTANT]
 > A disclaimer does **not** make copyrighted content free to use.  
+> If you are a rights holder and want any material removed, see **[Takedown / Removal Policy](#takedown--removal-policy)**.
 
 ## 🔐 Code License vs. Assets
 | Scope | License | Notes |
