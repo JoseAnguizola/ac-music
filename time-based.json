@@ -12,42 +12,42 @@
                     "id": "nl-00",
                     "hour": 0,
                     "title": "New Leaf Live",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/12%20A.M.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/12%20A.M.mp3",
                     "time": "12 AM"
                 },
                 {
                     "id": "nl-01",
                     "hour": 1,
                     "title": "New Leaf Live",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/1%20A.M.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/1%20A.M.mp3",
                     "time": "1 AM"
                 },
                 {
                     "id": "nl-02",
                     "hour": 2,
                     "title": "New Leaf Live",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/2%20A.M.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/2%20A.M.mp3",
                     "time": "2 AM"
                 },
                 {
                     "id": "nl-03",
                     "hour": 3,
                     "title": "New Leaf Live",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/3%20A.M.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/3%20A.M.mp3",
                     "time": "3 AM"
                 },
                 {
                     "id": "nl-04",
                     "hour": 4,
                     "title": "New Leaf Live",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/4%20A.M.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/4%20A.M.mp3",
                     "time": "4 AM"
                 },
                 {
                     "id": "nl-05",
                     "hour": 5,
                     "title": "New Leaf Live",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/live-songs/5%20A.M.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/5%20A.M.mp3",
                     "time": "5 AM"
                 },
                 {
