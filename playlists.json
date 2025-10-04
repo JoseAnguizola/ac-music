@@ -19,14 +19,12 @@
                         {
                             "title": "Able Sisters (Mabel & Sable)",
                             "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Able%20Sisters%20(Mabel%20and%20Sable).mp3",
-                            "composers": "Manaka Kataoka, Atsuko Asahi",
-                            "time": "Manaka Kataoka, Atsuko Asahi"
+                            "subtitle": "Animal Crossing: New Leaf"
                         },
                         {
                             "title": "Re-Tail",
                             "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Re-Tail.mp3",
-                            "composers": "Kazumi Totaka, Manaka Kataoka, Atsuku Asahi",
-                            "time": "Kazumi Totaka, Manaka Kataoka, Atsuku Asahi"
+                            "subtitle": "Animal Crossing: New Leaf"
                         }
                     ]
                 }
