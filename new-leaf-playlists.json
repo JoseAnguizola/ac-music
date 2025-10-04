@@ -1,6 +1,176 @@
 {
     "playlists": [
         {
+            "id": "new-leaf-buildings",
+            "name": "Building Themes",
+            "description": "Atmospheric music from the various buildings and facilities around your town—from the peaceful Museum to the bustling Town Hall.",
+            "icon": "Building",
+            "iconBg": "#7ec8e3",
+            "iconColor": "#1a5f7a",
+            "songs": [
+                {
+                    "title": "Exhibit Room",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Exhibit%20Room.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Happy Home Showcase",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Happy%20Home%20Showcase.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Igloo",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Igloo.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Museum",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Museum.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Museum (Alt. Aquarium Track, Unused)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Museum%20(Alt.%20Aquarium%20Track,%20Unused).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Museum (Aquarium Track)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Museum%20(Aquarium%20Track).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Nook's Homes",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Nook%27s%20Homes.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Police Station",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Police%20Station.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Post Office - Pelly",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Post%20Office%20-%20Pelly.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Post Office - Phyllis",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Post%20Office%20-%20Phyllis.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Train Station",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Train%20Station.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Town Hall",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Town%20Hall.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Town Tree",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/buildings/Town%20Tree.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-downtown",
+            "name": "Downtown Music",
+            "description": "The bustling sounds of Main Street—day and night variations that capture the energy of shopping and socializing in your town's commercial district.",
+            "icon": "City",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "title": "Downtown by Day 1",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%201.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 1 - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%201%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 1 - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%201%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 2",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%202.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 2 - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%202%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 2 - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%202%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%203.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Day 3 - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Day%203%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 1",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%201.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 1 - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%201%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 1 - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%201%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 2",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%202.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 2 - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%202%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 2 - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%202%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%203.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 3 - Rainy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%203%20-%20Rainy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Downtown by Night 3 - Snowy",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/downtown/Downtown%20by%20Night%203%20-%20Snowy.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                }
+            ]
+        },
+        {
             "id": "new-leaf-shops",
             "name": "Shop Themes",
             "description": "Cozy, nostalgic shop tunes from Animal Crossing: New Leaf—gentle jingles and friendly chimes that make your day feel like a stroll through T&T Emporium.",
@@ -9,66 +179,858 @@
             "iconColor": "#8b6914",
             "songs": [
                 {
-                    "title": "Able Sisters (Mabel & Sable)",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/libraries/shops/Able%20Sisters%20(Mabel%20and%20Sable).mp3",
+                    "title": "Able Sisters - Labelle",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Able%20Sisters%20-%20Labelle.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Able Sisters - Sable and Mabel",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Able%20Sisters%20-%20Sable%20and%20Mabel.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Club LOL",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Club%20LOL.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Crazy Redd's",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Crazy%20Redd%27s.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Dream Suite",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Dream%20Suite.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Fortune Shop",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Fortune%20Shop.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Gardening Store",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Gardening%20Store.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "GracieGrace",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/GracieGrace.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Kicks",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Kicks.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Nookling Junction",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Nookling%20Junction.mp3",
                     "subtitle": "Animal Crossing: New Leaf"
                 },
                 {
                     "title": "Re-Tail",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/libraries/shops/Re-Tail.mp3",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Re-Tail.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Shampoodle",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Shampoodle.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Super T&T (Supermarket)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/Super%20T%26T%20(Supermarket).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "T&T Emporium (Department Store)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/T%26T%20Emporium%20(Department%20Store).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "T&T Mart (Convenience Store)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/T%26T%20Mart%20(Convenience%20Store).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "T.I.Y. - Garden Section (Home Center)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/T.I.Y.%20-%20Garden%20Section%20(Home%20Center).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "T.I.Y. - Main Section (Home Center)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/shops/T.I.Y.%20-%20Main%20Section%20(Home%20Center).mp3",
                     "subtitle": "Animal Crossing: New Leaf"
                 }
             ]
         },
         {
-            "id": "new-leaf-time-based",
-            "name": "24/7 Music",
-            "description": "Hourly music from Animal Crossing: New Leaf that changes throughout the day, creating the perfect ambient soundtrack for any time.",
-            "icon": "Music",
+            "id": "new-leaf-events",
+            "name": "Special Events",
+            "description": "Festive music from holidays and special occasions throughout the year—from Bunny Day to Toy Day, capturing the joy of seasonal celebrations.",
+            "icon": "Calendar",
+            "iconBg": "#f4d47c",
+            "iconColor": "#8b6914",
+            "songs": [
+                {
+                    "title": "Bunny Day (Easter)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Bunny%20Day%20(Easter).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Bunny Day (Easter, No SFX)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Bunny%20Day%20(Easter,%20No%20SFX).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Festivale (Carnival)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Festivale%20(Carnival).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Festivale (Carnival, No SFX)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Festivale%20(Carnival,%20No%20SFX).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Fireworks",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Fireworks.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Halloween",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Halloween.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Happy New Year!",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Happy%20New%20Year!.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Harvest Festival (Thanksgiving)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Harvest%20Festival%20(Thanksgiving).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "New Year Countdown (1 Hour)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/New%20Year%20Countdown%20(1%20Hour).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "New Year Countdown (10 Minutes)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/New%20Year%20Countdown%20(10%20Minutes).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "New Year Countdown (30 Minutes)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/New%20Year%20Countdown%20(30%20Minutes).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "New Year Countdown (5 Minutes)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/New%20Year%20Countdown%20(5%20Minutes).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "New Year's Day",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/New%20Year%27s%20Day.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "New Year's Day (2 AM-6 AM)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/New%20Year%27s%20Day%20(2%20AM-6%20AM).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Toy Day (Christmas)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Toy%20Day%20(Christmas).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Toy Day (Christmas, No SFX)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/events/Toy%20Day%20(Christmas,%20No%20SFX).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-special",
+            "name": "Special & Misc",
+            "description": "Unique tracks including the main theme, prologue music, Tortimer Island adventures, and various game events that add character to your New Leaf experience.",
+            "icon": "Star",
             "iconBg": "#a8d5ba",
             "iconColor": "#2d5f3f",
             "songs": [
                 {
-                    "id": "nl-00",
+                    "title": "Aww... (Axe Broke, etc.)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Aww...%20(Axe%20Broke,%20etc.).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Competition Award Ceremony",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Competition%20Award%20Ceremony.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Dedication Ceremony (Public Works Project Completion)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Dedication%20Ceremony%20(Public%20Works%20Project%20Completion).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Dr. Shrunk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Dr.%20Shrunk.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Loading the Game (Isabelle)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Loading%20the%20Game%20(Isabelle).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Main Theme",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Main%20Theme.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - After Choosing House Location",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20After%20Choosing%20House%20Location.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Go See Tom Nook",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Go%20See%20Tom%20Nook.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Train Arriving",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Train%20Arriving.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Welcome to Our Village!",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Welcome%20to%20Our%20Village!.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Prologue - Where Do You Want Your House",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Prologue%20-%20Where%20Do%20You%20Want%20Your%20House.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Racket",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Racket.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Resetti",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Resetti.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Award Ceremony",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Award%20Ceremony.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hammer Tour",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hammer%20Tour.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hammer Tour - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hammer%20Tour%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hide and Seek",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hide%20and%20Seek.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Hide and Seek - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Hide%20and%20Seek%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Lobby",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Lobby.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Lobby (Nighttime)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Lobby%20(Nighttime).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour (Nighttime)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20(Nighttime).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour (Nighttime) - Fast",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20(Nighttime)%20-%20Fast.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Tortimer Island - Tour Desk",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Tortimer%20Island%20-%20Tour%20Desk.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "We'll Be Closing Shortly....",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/We%27ll%20Be%20Closing%20Shortly....mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Welcome to Our Village! (Not the Mayor)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/libraries/special/Welcome%20to%20Our%20Village!%20(Not%20the%20Mayor).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-village-clear",
+            "name": "Village (Clear)",
+            "description": "Clear weather hourly music from Animal Crossing: New Leaf that changes throughout the day, creating the perfect ambient soundtrack for sunny days.",
+            "icon": "Sun",
+            "iconBg": "#f4d47c",
+            "iconColor": "#8b6914",
+            "songs": [
+                {
+                    "id": "nl-clear-00",
                     "hour": 0,
-                    "title": "12 A.M.",
+                    "title": "12 AM",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/12%20A.M.mp3"
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/12%20AM.mp3"
                 },
                 {
-                    "id": "nl-01",
+                    "id": "nl-clear-01",
                     "hour": 1,
-                    "title": "1 A.M.",
+                    "title": "1 AM",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/1%20A.M.mp3"
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/1%20AM.mp3"
                 },
                 {
-                    "id": "nl-02",
+                    "id": "nl-clear-02",
                     "hour": 2,
-                    "title": "2 A.M.",
+                    "title": "2 AM",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/2%20A.M.mp3"
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/2%20AM.mp3"
                 },
                 {
-                    "id": "nl-03",
+                    "id": "nl-clear-03",
                     "hour": 3,
-                    "title": "3 A.M.",
+                    "title": "3 AM",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/3%20A.M.mp3"
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/3%20AM.mp3"
                 },
                 {
-                    "id": "nl-04",
+                    "id": "nl-clear-04",
                     "hour": 4,
-                    "title": "4 A.M.",
+                    "title": "4 AM",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/4%20A.M.mp3"
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/4%20AM.mp3"
                 },
                 {
-                    "id": "nl-05",
+                    "id": "nl-clear-05",
                     "hour": 5,
-                    "title": "5 A.M.",
+                    "title": "5 AM",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://raw.githubusercontent.com/JoseAnguizola/ac-music/main/new-leaf/time-based-songs/5%20A.M.mp3"
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/5%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-06",
+                    "hour": 6,
+                    "title": "6 AM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/6%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-07",
+                    "hour": 7,
+                    "title": "7 AM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/7%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-08",
+                    "hour": 8,
+                    "title": "8 AM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/8%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-09",
+                    "hour": 9,
+                    "title": "9 AM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/9%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-10",
+                    "hour": 10,
+                    "title": "10 AM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/10%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-11",
+                    "hour": 11,
+                    "title": "11 AM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/11%20AM.mp3"
+                },
+                {
+                    "id": "nl-clear-12",
+                    "hour": 12,
+                    "title": "12 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/12%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-13",
+                    "hour": 13,
+                    "title": "1 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/1%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-14",
+                    "hour": 14,
+                    "title": "2 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/2%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-15",
+                    "hour": 15,
+                    "title": "3 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/3%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-16",
+                    "hour": 16,
+                    "title": "4 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/4%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-17",
+                    "hour": 17,
+                    "title": "5 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/5%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-18",
+                    "hour": 18,
+                    "title": "6 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/6%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-19",
+                    "hour": 19,
+                    "title": "7 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/7%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-20",
+                    "hour": 20,
+                    "title": "8 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/8%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-21",
+                    "hour": 21,
+                    "title": "9 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/9%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-22",
+                    "hour": 22,
+                    "title": "10 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/10%20PM.mp3"
+                },
+                {
+                    "id": "nl-clear-23",
+                    "hour": 23,
+                    "title": "11 PM",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/11%20PM.mp3"
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-village-rainy",
+            "name": "Village (Rainy)",
+            "description": "Rainy weather hourly music from Animal Crossing: New Leaf that changes throughout the day, creating the perfect ambient soundtrack for rainy days.",
+            "icon": "CloudRain",
+            "iconBg": "#7ec8e3",
+            "iconColor": "#1a5f7a",
+            "songs": [
+                {
+                    "id": "nl-rainy-00",
+                    "hour": 0,
+                    "title": "12 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/12%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-01",
+                    "hour": 1,
+                    "title": "1 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/1%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-02",
+                    "hour": 2,
+                    "title": "2 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/2%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-03",
+                    "hour": 3,
+                    "title": "3 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/3%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-04",
+                    "hour": 4,
+                    "title": "4 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/4%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-05",
+                    "hour": 5,
+                    "title": "5 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/5%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-06",
+                    "hour": 6,
+                    "title": "6 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/6%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-07",
+                    "hour": 7,
+                    "title": "7 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/7%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-08",
+                    "hour": 8,
+                    "title": "8 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/8%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-09",
+                    "hour": 9,
+                    "title": "9 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/9%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-10",
+                    "hour": 10,
+                    "title": "10 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/10%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-11",
+                    "hour": 11,
+                    "title": "11 AM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/11%20AM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-12",
+                    "hour": 12,
+                    "title": "12 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/12%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-13",
+                    "hour": 13,
+                    "title": "1 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/1%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-14",
+                    "hour": 14,
+                    "title": "2 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/2%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-15",
+                    "hour": 15,
+                    "title": "3 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/3%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-16",
+                    "hour": 16,
+                    "title": "4 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/4%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-17",
+                    "hour": 17,
+                    "title": "5 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/5%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-18",
+                    "hour": 18,
+                    "title": "6 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/6%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-19",
+                    "hour": 19,
+                    "title": "7 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/7%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-20",
+                    "hour": 20,
+                    "title": "8 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/8%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-21",
+                    "hour": 21,
+                    "title": "9 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/9%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-22",
+                    "hour": 22,
+                    "title": "10 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/10%20PM%20-%20Rainy.mp3"
+                },
+                {
+                    "id": "nl-rainy-23",
+                    "hour": 23,
+                    "title": "11 PM - Rainy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/11%20PM%20-%20Rainy.mp3"
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-village-snowy",
+            "name": "Village (Snowy)",
+            "description": "Snowy weather hourly music from Animal Crossing: New Leaf that changes throughout the day, creating the perfect ambient soundtrack for winter days.",
+            "icon": "Snowflake",
+            "iconBg": "#e8f4fd",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "id": "nl-snowy-00",
+                    "hour": 0,
+                    "title": "12 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/12%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-01",
+                    "hour": 1,
+                    "title": "1 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/1%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-02",
+                    "hour": 2,
+                    "title": "2 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/2%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-03",
+                    "hour": 3,
+                    "title": "3 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/3%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-04",
+                    "hour": 4,
+                    "title": "4 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/4%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-05",
+                    "hour": 5,
+                    "title": "5 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/5%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-06",
+                    "hour": 6,
+                    "title": "6 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/6%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-07",
+                    "hour": 7,
+                    "title": "7 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/7%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-08",
+                    "hour": 8,
+                    "title": "8 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/8%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-09",
+                    "hour": 9,
+                    "title": "9 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/9%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-10",
+                    "hour": 10,
+                    "title": "10 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/10%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-11",
+                    "hour": 11,
+                    "title": "11 AM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/11%20AM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-12",
+                    "hour": 12,
+                    "title": "12 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/12%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-13",
+                    "hour": 13,
+                    "title": "1 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/1%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-14",
+                    "hour": 14,
+                    "title": "2 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/2%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-15",
+                    "hour": 15,
+                    "title": "3 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/3%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-16",
+                    "hour": 16,
+                    "title": "4 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/4%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-17",
+                    "hour": 17,
+                    "title": "5 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/5%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-18",
+                    "hour": 18,
+                    "title": "6 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/6%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-19",
+                    "hour": 19,
+                    "title": "7 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/7%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-20",
+                    "hour": 20,
+                    "title": "8 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/8%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-21",
+                    "hour": 21,
+                    "title": "9 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/9%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-22",
+                    "hour": 22,
+                    "title": "10 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/10%20PM%20-%20Snowy.mp3"
+                },
+                {
+                    "id": "nl-snowy-23",
+                    "hour": 23,
+                    "title": "11 PM - Snowy",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-new-leaf-music@main/new-leaf/time-based-songs/11%20PM%20-%20Snowy.mp3"
                 }
             ]
         }

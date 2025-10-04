@@ -9,168 +9,168 @@
             "iconColor": "#2d5f3f",
             "songs": [
                 {
-                    "id": "nl-00",
+                    "id": "nl-c-00",
                     "hour": 0,
                     "title": "12 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-01",
+                    "id": "nl-c-01",
                     "hour": 1,
                     "title": "1 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-02",
+                    "id": "nl-c-02",
                     "hour": 2,
                     "title": "2 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-03",
+                    "id": "nl-c-03",
                     "hour": 3,
                     "title": "3 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-04",
+                    "id": "nl-c-04",
                     "hour": 4,
                     "title": "4 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/4%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
-                    "id": "nl-05",
+                    "id": "nl-c-05",
                     "hour": 5,
                     "title": "5 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
-                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/5%20A.M.mp3"
+                    "audioUrl": ""
                 },
                 {
-                    "id": "nl-06",
+                    "id": "nl-c-06",
                     "hour": 6,
                     "title": "6 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-07",
+                    "id": "nl-c-07",
                     "hour": 7,
                     "title": "7 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-08",
+                    "id": "nl-c-08",
                     "hour": 8,
                     "title": "8 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-09",
+                    "id": "nl-c-09",
                     "hour": 9,
                     "title": "9 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-10",
+                    "id": "nl-c-10",
                     "hour": 10,
                     "title": "10 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-11",
+                    "id": "nl-c-11",
                     "hour": 11,
                     "title": "11 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-12",
+                    "id": "nl-c-12",
                     "hour": 12,
                     "title": "12 A.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-13",
+                    "id": "nl-c-13",
                     "hour": 13,
                     "title": "1 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-14",
+                    "id": "nl-c-14",
                     "hour": 14,
                     "title": "2 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-15",
+                    "id": "nl-c-15",
                     "hour": 15,
                     "title": "3 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-16",
+                    "id": "nl-c-16",
                     "hour": 16,
                     "title": "4 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-17",
+                    "id": "nl-c-17",
                     "hour": 17,
                     "title": "5 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-18",
+                    "id": "nl-c-18",
                     "hour": 18,
                     "title": "6 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-19",
+                    "id": "nl-c-19",
                     "hour": 19,
                     "title": "7 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-20",
+                    "id": "nl-c-20",
                     "hour": 20,
                     "title": "8 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-21",
+                    "id": "nl-c-21",
                     "hour": 21,
                     "title": "9 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-22",
+                    "id": "nl-c-22",
                     "hour": 22,
                     "title": "10 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "nl-23",
+                    "id": "nl-c-23",
                     "hour": 23,
                     "title": "11 P.M.",
                     "subtitle": "Animal Crossing: New Leaf",
@@ -179,179 +179,357 @@
             ]
         },
         {
-            "id": "new-horizons",
-            "name": "Animal Crossing: New Horizons",
-            "description": "Nintendo Switch",
+            "id": "new-leaf-rainy",
+            "name": "Animal Crossing: New Leaf",
+            "description": "Nintendo 3DS",
             "icon": "Cloud",
             "iconBg": "#9cb4d8",
             "iconColor": "#2c4a6b",
             "songs": [
                 {
-                    "id": "rd-00",
+                    "id": "nl-r-00",
                     "hour": 0,
                     "title": "12 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-01",
+                    "id": "nl-r-01",
                     "hour": 1,
                     "title": "1 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-02",
+                    "id": "nl-r-02",
                     "hour": 2,
                     "title": "2 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-03",
+                    "id": "nl-r-03",
                     "hour": 3,
                     "title": "3 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-04",
+                    "id": "nl-r-04",
                     "hour": 4,
                     "title": "4 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-05",
+                    "id": "nl-r-05",
                     "hour": 5,
                     "title": "5 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-06",
+                    "id": "nl-r-06",
                     "hour": 6,
                     "title": "6 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-07",
+                    "id": "nl-r-07",
                     "hour": 7,
                     "title": "7 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-08",
+                    "id": "nl-r-08",
                     "hour": 8,
                     "title": "8 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-09",
+                    "id": "nl-r-09",
                     "hour": 9,
                     "title": "9 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-10",
+                    "id": "nl-r-10",
                     "hour": 10,
                     "title": "10 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-11",
+                    "id": "nl-r-11",
                     "hour": 11,
                     "title": "11 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-12",
+                    "id": "nl-r-12",
                     "hour": 12,
                     "title": "12 A.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-13",
+                    "id": "nl-r-13",
                     "hour": 13,
                     "title": "1 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-14",
+                    "id": "nl-r-14",
                     "hour": 14,
                     "title": "2 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-15",
+                    "id": "nl-r-15",
                     "hour": 15,
                     "title": "3 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-16",
+                    "id": "nl-r-16",
                     "hour": 16,
                     "title": "4 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-17",
+                    "id": "nl-r-17",
                     "hour": 17,
                     "title": "5 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-18",
+                    "id": "nl-r-18",
                     "hour": 18,
                     "title": "6 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-19",
+                    "id": "nl-r-19",
                     "hour": 19,
                     "title": "7 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-20",
+                    "id": "nl-r-20",
                     "hour": 20,
                     "title": "8 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-21",
+                    "id": "nl-r-21",
                     "hour": 21,
                     "title": "9 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-22",
+                    "id": "nl-r-22",
                     "hour": 22,
                     "title": "10 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 },
                 {
-                    "id": "rd-23",
+                    "id": "nl-r-23",
                     "hour": 23,
                     "title": "11 P.M.",
-                    "subtitle": "Animal Crossing: New Horizons",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-snowy",
+            "name": "Animal Crossing: New Leaf",
+            "description": "Nintendo 3DS",
+            "icon": "Snow",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "id": "nl-s-00",
+                    "hour": 0,
+                    "title": "12 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-01",
+                    "hour": 1,
+                    "title": "1 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-02",
+                    "hour": 2,
+                    "title": "2 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-03",
+                    "hour": 3,
+                    "title": "3 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-04",
+                    "hour": 4,
+                    "title": "4 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-05",
+                    "hour": 5,
+                    "title": "5 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-06",
+                    "hour": 6,
+                    "title": "6 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-07",
+                    "hour": 7,
+                    "title": "7 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-08",
+                    "hour": 8,
+                    "title": "8 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-09",
+                    "hour": 9,
+                    "title": "9 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-10",
+                    "hour": 10,
+                    "title": "10 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-11",
+                    "hour": 11,
+                    "title": "11 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-12",
+                    "hour": 12,
+                    "title": "12 A.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-13",
+                    "hour": 13,
+                    "title": "1 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-14",
+                    "hour": 14,
+                    "title": "2 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-15",
+                    "hour": 15,
+                    "title": "3 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-16",
+                    "hour": 16,
+                    "title": "4 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-17",
+                    "hour": 17,
+                    "title": "5 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-18",
+                    "hour": 18,
+                    "title": "6 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-19",
+                    "hour": 19,
+                    "title": "7 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-20",
+                    "hour": 20,
+                    "title": "8 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-21",
+                    "hour": 21,
+                    "title": "9 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-22",
+                    "hour": 22,
+                    "title": "10 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "nl-s-23",
+                    "hour": 23,
+                    "title": "11 P.M.",
+                    "subtitle": "Animal Crossing: New Leaf",
                     "audioUrl": ""
                 }
             ]
