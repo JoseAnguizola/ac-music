@@ -1,0 +1,76 @@
+{
+    "playlists": [
+        {
+            "id": "new-leaf-shops",
+            "name": "Shop Themes",
+            "description": "Cozy, nostalgic shop tunes from Animal Crossing: New Leaf—gentle jingles and friendly chimes that make your day feel like a stroll through T&T Emporium.",
+            "icon": "Store",
+            "iconBg": "#f4d47c",
+            "iconColor": "#8b6914",
+            "songs": [
+                {
+                    "title": "Able Sisters (Mabel & Sable)",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Able%20Sisters%20(Mabel%20and%20Sable).mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                },
+                {
+                    "title": "Re-Tail",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/libraries/shops/Re-Tail.mp3",
+                    "subtitle": "Animal Crossing: New Leaf"
+                }
+            ]
+        },
+        {
+            "id": "new-leaf-time-based",
+            "name": "24/7 Music",
+            "description": "Hourly music from Animal Crossing: New Leaf that changes throughout the day, creating the perfect ambient soundtrack for any time.",
+            "icon": "Music",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "songs": [
+                {
+                    "id": "nl-00",
+                    "hour": 0,
+                    "title": "New Leaf Live",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/12%20A.M.mp3"
+                },
+                {
+                    "id": "nl-01",
+                    "hour": 1,
+                    "title": "New Leaf Live",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/1%20A.M.mp3"
+                },
+                {
+                    "id": "nl-02",
+                    "hour": 2,
+                    "title": "New Leaf Live",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/2%20A.M.mp3"
+                },
+                {
+                    "id": "nl-03",
+                    "hour": 3,
+                    "title": "New Leaf Live",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/3%20A.M.mp3"
+                },
+                {
+                    "id": "nl-04",
+                    "hour": 4,
+                    "title": "New Leaf Live",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/4%20A.M.mp3"
+                },
+                {
+                    "id": "nl-05",
+                    "hour": 5,
+                    "title": "New Leaf Live",
+                    "subtitle": "Animal Crossing: New Leaf",
+                    "audioUrl": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf/time-based-songs/5%20A.M.mp3"
+                }
+            ]
+        }
+    ]
+}

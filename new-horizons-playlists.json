@@ -1,0 +1,200 @@
+{
+    "playlists": [
+        {
+            "id": "new-horizons-shops",
+            "name": "Shop Themes",
+            "description": "Island shop vibes from New Horizons—tropical tunes and breezy melodies that make you feel at home on your island.",
+            "icon": "Store",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": []
+        },
+        {
+            "id": "new-horizons-ambient",
+            "name": "Ambient Sounds",
+            "description": "Peaceful ambient sounds from your island paradise.",
+            "icon": "Waves",
+            "iconBg": "#7ec8e3",
+            "iconColor": "#1a5f7a",
+            "songs": []
+        },
+        {
+            "id": "new-horizons-time-based",
+            "name": "24/7 Music",
+            "description": "Hourly music from Animal Crossing: New Horizons that changes throughout the day, creating the perfect island soundtrack for any time.",
+            "icon": "Cloud",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "songs": [
+                {
+                    "id": "rd-00",
+                    "hour": 0,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-01",
+                    "hour": 1,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-02",
+                    "hour": 2,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-03",
+                    "hour": 3,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-04",
+                    "hour": 4,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-05",
+                    "hour": 5,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-06",
+                    "hour": 6,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-07",
+                    "hour": 7,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-08",
+                    "hour": 8,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-09",
+                    "hour": 9,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-10",
+                    "hour": 10,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-11",
+                    "hour": 11,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-12",
+                    "hour": 12,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-13",
+                    "hour": 13,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-14",
+                    "hour": 14,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-15",
+                    "hour": 15,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-16",
+                    "hour": 16,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-17",
+                    "hour": 17,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-18",
+                    "hour": 18,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-19",
+                    "hour": 19,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-20",
+                    "hour": 20,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-21",
+                    "hour": 21,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-22",
+                    "hour": 22,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                },
+                {
+                    "id": "rd-23",
+                    "hour": 23,
+                    "title": "New Horizons Radio",
+                    "subtitle": "Animal Crossing: New Horizons",
+                    "audioUrl": ""
+                }
+            ]
+        }
+    ]
+}

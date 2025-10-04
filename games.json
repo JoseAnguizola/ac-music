@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "id": "new-leaf",
+            "name": "New Leaf",
+            "description": "Animal Crossing: New Leaf",
+            "icon": "Leaf",
+            "iconBg": "#a8d5ba",
+            "iconColor": "#2d5f3f",
+            "playlists_url": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-leaf-playlists.json"
+        },
+        {
+            "id": "new-horizons",
+            "name": "New Horizons",
+            "description": "Animal Crossing: New Horizons",
+            "icon": "Palmtree",
+            "iconBg": "#9cb4d8",
+            "iconColor": "#2c4a6b",
+            "playlists_url": "https://cdn.jsdelivr.net/gh/JoseAnguizola/ac-music@main/new-horizons-playlists.json"
+        }
+    ]
+}
