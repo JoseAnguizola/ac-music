@@ -2,6 +2,7 @@
     "timeBasedSongs": [
         {
             "id": "new-leaf-clear",
+            "type": "clear",
             "name": "Animal Crossing: New Leaf",
             "description": "Nintendo 3DS",
             "icon": "Music",
@@ -180,6 +181,7 @@
         },
         {
             "id": "new-leaf-rainy",
+            "type": "rainy",
             "name": "Animal Crossing: New Leaf",
             "description": "Nintendo 3DS",
             "icon": "Cloud",
@@ -358,6 +360,7 @@
         },
         {
             "id": "new-leaf-snowy",
+            "type": "snowy",
             "name": "Animal Crossing: New Leaf",
             "description": "Nintendo 3DS",
             "icon": "Snow",
