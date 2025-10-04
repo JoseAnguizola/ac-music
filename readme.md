@@ -48,4 +48,4 @@ Upon receipt, we will review and **remove the material promptly**.
 
 ---
 
-<sub>*This README is provided to clearly communicate non-commercial intent and separation of code vs. third-party assets. It is not legal advice.*</sub>
+<sub>*This README is provided to clearly communicate non-commercial intent and separation of code vs. third-party assets.*</sub>
